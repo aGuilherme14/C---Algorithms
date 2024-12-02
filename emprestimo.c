@@ -10,6 +10,8 @@
                Ele também inclui funcionalidades para salvar e carregar os dados de clientes e empréstimos em um arquivo, 
                garantindo persistência. 
 
+    SENHA ADM: 1230
+
  */
 
 #include <stdio.h>
